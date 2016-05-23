@@ -108,7 +108,7 @@ eval val@(Bool _) = val
 eval (List [Atom "quote", val]) = val
 
 
--- shoot 
+-- shoot
 
 
 
